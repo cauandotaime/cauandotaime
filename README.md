@@ -1,5 +1,7 @@
 ## oi meu nome é cauan 👋
-
+## 15 anos 
+## escola amarela 
+## av portal do lago
 <!--
 **cauandotaime/cauandotaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
