@@ -1,4 +1,4 @@
-## oi meu nome e cauan 👋
+## oi meu nome é cauan 👋
 
 <!--
 **cauandotaime/cauandotaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
